@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "281308643485",
+    "project_id": "florascan-56192",
+    "storage_bucket": "florascan-56192.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281308643485:android:db1cf718e06a77d35b9474",
+        "android_client_info": {
+          "package_name": "com.florascan.plantscannerar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiOgs3rk1wY-ASe8M5bULenxxi_U-dyzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
