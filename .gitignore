@@ -82,3 +82,5 @@ Assets/Firebase/Plugins/x86_64/*.so
 Assets/Firebase/Plugins/x86_64/*.bundle
 Assets/Firebase/Plugins/**/*.so
 Assets/Firebase/Plugins/**/*.bundle
+Assets/StreamingAssets/roboflow_apikey.txt
+Assets/StreamingAssets/roboflow_apikey.txt
