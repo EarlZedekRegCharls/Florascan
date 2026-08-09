@@ -1,0 +1,1 @@
+C:\FloraScan\PlantScannerAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\1a4n1w1j\obj\arm64-v8a

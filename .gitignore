@@ -84,3 +84,7 @@ Assets/Firebase/Plugins/**/*.so
 Assets/Firebase/Plugins/**/*.bundle
 Assets/StreamingAssets/roboflow_apikey.txt
 Assets/StreamingAssets/roboflow_apikey.txt
+Assets/GeneratedLocalRepo/
+Assets/GeneratedLocalRepo.meta
+Assets/Plugins/Android.meta
+ProjectSettings/AndroidResolverDependencies.xml
